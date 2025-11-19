@@ -1,0 +1,1 @@
+this is my personal hyprland dotfile repo.
